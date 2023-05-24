@@ -1,2 +1,6 @@
 
-/* Your CSS Code here. */
+table,td,th,tr{
+	border:1px solid black;
+	width:100%;
+	text-decoration:none;
+}
